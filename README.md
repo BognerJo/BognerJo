@@ -1,13 +1,19 @@
-Hi, I’m @JohannBogner 👋
+<div align="center">
+  <h1>Hi, I’m Johann 👋</h1>
+</div>
 
-👨‍🦱 Partially German (🇩🇪) and Indonesian (🇮🇩)!
-
-📍 Living in Bavaria, Germany.
-
-🏫 Currently going to highschool!
-
-I'm 17 years old and just getting started here on GitHub.
-My favorite programming language is Python. I began learning it in 2020 during the covid pandemic.
-As my main operating system I'm running Linux, specifically EndeavourOS.
-
-Besides coding with python, I love to play chess (also in a chessclub) and biking.
+<div align="center">
+  
+  👨‍🦱 Partially German (🇩🇪) and Indonesian (🇮🇩)
+  
+  📍 Living in Bavaria, Germany
+  
+  🏫 Currently going to highschool
+</div>
+<br>
+<h1 align="center">🙋 About me</h1>
+I'm a 17-year-old Python enthusiast just getting started with GitHub.
+<br>
+I enjoy learning and exploring new things in tech, and I'm currently using EndeavourOS as my main operating system for coding.
+<br>
+I'm member of my local chess club, therefore I really love playing chess. If there's time, I hang out with my friends or do some biking.
